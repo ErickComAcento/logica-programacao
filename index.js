@@ -85,12 +85,48 @@ console.log("O segundo número é divisível pelo primeiro?", resto2) */
 
 
 
+/* DESAFIO 1 DE CÓDIGO
 const faren = prompt("Quantos fairenrraite ta fazendo meu bom?")
 const celc = prompt("Quantos celso tão?")
 const celsodnv = prompt("Celso dnv")
 const fk1 = Number(faren) - 32
 const fk2 = Number(fk1) * 5 / 9 + 273.15
 const ck1 = Number(celc) * 9 / 5 + 32
-
+const cf1 = Number(celsodnv) * 9 / 5 + 32
+const ck2 = Number(celsodnv) + 273.15
 console.log("A transformação de fairenraite pra kelve é", fk2)
 console.log("A transformação de celso pra kevin é", ck1)
+console.log("A transformação da tua segunda escolha celso pra farerraite é", cf1)
+console.log("E a transformação de censo pra kevin é", ck2) */
+
+
+
+/* DESAFIO 2 DE CÓDIGO
+const kw = prompt("Quanto essa humilde residência ta gastando?")
+const conta = Number(kw) * 0.05
+const desc = Number(conta) * 0.15
+const desc2 = Number(conta) - Number(desc)
+console.log("Essa casa vai ter que pagar R$", conta, ". Tá caro viu.")
+console.log("Com 15% de desconto tá custando R$", desc2, ". Agora tá baratin.") */
+
+
+
+/* DESAFIO 3 DE CÓDIGO
+const libra = prompt("Quantas libra meu chapa?")
+const oz = prompt("Quantas onça?")
+const mi = prompt("Quantos mi?")
+const ft = prompt("Quantos ftw")
+const gal = prompt("Quantos gal?")
+const xic = prompt("Quantos xic?")
+const lbkg = Number(libra) / 2.205
+const ozkg = Number(oz) / 3.527
+const mim = Number(mi) * 1609
+const ftm = Number(ft) * 3.281
+const gall = Number(gal) * 378.5
+const xicl = Number(xic) / 3.52
+console.log(libra, "Equivalem a ", lbkg, "Kg.")
+console.log(oz, "Equivalem a ", ozkg, "Kg.")
+console.log(mi, "Equivalem a ", mim, "m.")
+console.log(ft, "Equivalem a ", ftm, "m.")
+console.log(gal, "Equivalem a ", gall, "l.")
+console.log(xic, "Equivalem a ", xicl, "l.") */
